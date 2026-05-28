@@ -42,7 +42,7 @@ I design and ship real-world AI products across:
 ## Contact
 - Email: pavanbavirisetty19@gmail.com
 - LinkedIn: https://www.linkedin.com/in/pavan-bavirisetty-8a9938225/
-- Portfolio/Work: add your website or project showcase link here
+- Portfolio/Work: https://portfolio-iota-three-2io441nvxh.vercel.app/
 
 <!---
 pavanbavirisetty/pavanbavirisetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
