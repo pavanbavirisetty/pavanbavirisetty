@@ -32,7 +32,7 @@ I design and ship real-world AI products across:
 - **AI/LLM:** LangChain, LangGraph, RAG, GraphRAG, text-to-SQL, MCP integrations
 - **Backend:** FastAPI, GraphQL, Redis
 - **Databases:** PostgreSQL, MongoDB, MySQL, ChromaDB, Neo4j
-- **Cloud/DevOps:** Docker, GitHub Actions, AWS (EC2, S3, ECS, Amplify), Vercel, Railway
+- **Cloud/DevOps:** Docker, GitHub Actions, AWS (EC2, S3, ECS, Amplify), Vercel, Railway, Inngest
 
 ## Open to collaborate on
 - AI agents and workflow automation
@@ -41,7 +41,7 @@ I design and ship real-world AI products across:
 
 ## Contact
 - Email: pavanbavirisetty19@gmail.com
-- LinkedIn: add your LinkedIn profile URL here
+- LinkedIn: https://www.linkedin.com/in/pavan-bavirisetty-8a9938225/
 - Portfolio/Work: add your website or project showcase link here
 
 <!---
